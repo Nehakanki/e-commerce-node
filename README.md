@@ -4,7 +4,7 @@ Build a backend API for a simplified e-commerce system. This API will handle use
 
 
 # Clone the repository: 
-https://github.com/Training-Rapidops/Neha-Kanki/tree/master/Node/E-Commerce%20Product%20Management
+https://github.com/Nehakanki/e-commerce-node
 
 # Install dependencies:
  npm install
